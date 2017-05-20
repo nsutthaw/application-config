@@ -1,0 +1,3 @@
+# server.port using just only refresh scope.
+server:
+ port: 8099
